@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scylla23
+- 👋 Hi, I’m Pavan Kushnure
 - 👀 I’m interested in WebDev/ML
 - 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on ...
