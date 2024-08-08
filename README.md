@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce App**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pavankumarkush5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavankumarkush5" height="30" width="40" /></a>
